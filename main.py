@@ -58,7 +58,7 @@ async def on_message(message):
             await message.channel.send(game_details(data, number))
 
     if message.content.startswith(";broke") and isValid == False:
-        await message.channel.send(':warning: Unknown Command, Please Type ";broke help" for help :warning:')
+        await message.channel.send(':warning: Unknown Command, Please Type `;broke help` for help :warning:')
 
 
 client.run(token)
