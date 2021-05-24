@@ -10,7 +10,7 @@ help_command = """
 
 🎮 `;broke list` for free games list 🎮
 
-🎮 `;broke #+{game number}` for game details 🎮
+🎮 `;broke game #+{game number}` for game details 🎮
 
 """
 
