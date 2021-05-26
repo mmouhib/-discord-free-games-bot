@@ -8,4 +8,4 @@ Add your Bot token to keys.py
 
 install the required modules by running: `pip install -r requirements.txt`
 
-![avatar](https://gitlab.com/mouhibb/discord-free-games-bot/-/blob/master/avatar.png)
+![avatar](https://gitlab.com/mouhibb/discord-free-games-bot/-/raw/master/avatar.png)
